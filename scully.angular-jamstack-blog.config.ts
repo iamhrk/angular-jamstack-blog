@@ -4,5 +4,11 @@ export const config: ScullyConfig = {
   projectName: "angular-jamstack-blog",
   outDir: './dist/static',
   routes: {
+    '/posts/:id': {
+      type: 'contentFolder',
+      id: {
+        folder: "./mdfiles"
+      }
+    },
   }
 };
