@@ -1,4 +1,9 @@
-# AngularJamstackBlog
+# Angular Jamstack Blog
+
+An angular blog application that indroduces Jamstack technology using the Scully library.
+
+Jamstack: [https://jamstack.org](https://scully.io)
+Scully: [https://scully.io](https://scully.io)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
