@@ -2,6 +2,8 @@
 
 An angular blog application that indroduces Jamstack technology using the Scully library.
 
+Live version of the app is [here](https://angular-jamstack-blog.onrender.com/articles)  
+
 Jamstack: [https://jamstack.org](https://scully.io)  
 Scully: [https://scully.io](https://scully.io)
 
