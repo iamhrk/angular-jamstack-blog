@@ -1,7 +1,7 @@
 ---
-title: 2024-03-26-posts
+title: 'Angular and Scully'
 description: 'blog description'
 published: true
 ---
 
-# 2024-03-26-posts
+# Angular and Scully

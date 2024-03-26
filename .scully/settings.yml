@@ -1,0 +1,15 @@
+identifier: lau188caa1m6y3a3
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: angular-jamstack-blog
+homeFolder: >-
+  /home/home/Documents/Angular/Angular
+  Projects/jamstack-scully-blog/angular-jamstack-blog
+distFolder: dist/angular-jamstack-blog
+outDir: >-
+  /home/home/Documents/Angular/Angular
+  Projects/jamstack-scully-blog/angular-jamstack-blog/dist/static
+handle404: ''
+allowErrorCollect: true
